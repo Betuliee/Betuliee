@@ -1,4 +1,11 @@
+<p align="center">
+  <a href="">
+    <img src="https://github.com/Betuliee/Betuliee/assets/143958869/d80fe0d6-e3b6-48c9-8aee-1f8b0646160b" alt="" width="500px"/></a>
+</p>
 - 👋 Hi, I’m @Betuliee
+
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -14,10 +21,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ### My Stats :
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Betuliee&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Betuliee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true")
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betuliee&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betuliee&hide=scss&layout=compact&theme=tokyonight))
 <!---
 Betuliee/Betuliee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
