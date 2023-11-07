@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ### ▹ My Stats :
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Betuliee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true")
+<!--- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Betuliee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true") --->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betuliee&hide=scss&layout=compact&theme=tokyonight))
