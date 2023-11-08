@@ -24,7 +24,7 @@
 <!--- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Betuliee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true") --->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Betuliee&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Betuliee&" alt="cvhrcckakds" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Betuliee&" alt="" /></p>
 <!---
 Betuliee/Betuliee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
